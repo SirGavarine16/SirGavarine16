@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Developer with 2 years of experience developing apps using React, React Native, Node.js and Next.js using TypeScript.
+Software Developer with 3 years of experience developing apps using React, React Native, Node.js and Next.js using TypeScript.
 
 
 ## 🌐 Socials:
